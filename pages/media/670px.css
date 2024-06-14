@@ -1,6 +1,0 @@
-@media screen and (max-width: 670px) {
-  .page__section {
-    max-width: calc(100% - 40px);
-
-  }
-}

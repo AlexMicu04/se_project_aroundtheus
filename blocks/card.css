@@ -9,11 +9,16 @@
 }
 
 .card__title {
-  max-width: 220px;
   text-overflow: ellipsis;
   white-space: nowrap;
   overflow: hidden;
   max-width: 219px;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 900;
+  line-height: 29.05px;
+  text-align: left;
+  margin: 0;
 }
 
 .card__image {
@@ -36,14 +41,15 @@
 
 .card__like-button {
   display: flex;
-  background: transparent url(../images/Vector.svg) center no-repeat;
+  background: transparent url(../images/Vector4.svg) center no-repeat;
   width: 21px;
   height: 18px;
+  padding: 0;
   border: none;
-
+  color: #000000;
 }
 
 .card__like-button:hover {
   cursor: pointer;
-  opacity: 60%;
+  opacity: 0.5;
 }
