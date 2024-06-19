@@ -1,5 +1,6 @@
 .header {
   max-width: 880px;
+  max-height: 74px;
   margin-top: 45px;
   margin-left: 200px;
   margin-right: 200px;
@@ -8,7 +9,9 @@
 
 .header__logo {
   max-width: 173px;
+  margin-bottom: 41px;
 }
+
 @media screen and (min-width: 1280px) {
   .header {
     margin-left: auto;
