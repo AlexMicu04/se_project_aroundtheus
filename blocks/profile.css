@@ -30,6 +30,7 @@
   border-color: #fff;
   border-width: 1px;
   border-style: solid;
+  margin-right: 20px;
 }
 
 .profile__edit-button:hover {
@@ -84,13 +85,6 @@
   }
 
   @media screen and (min-width: 1280px) {
-    .profile {
-      margin-left: auto;
-      margin-right: auto;
-    }
-  }
-
-  @media screen and (max-width: 1100px) {
     .profile {
       margin-left: auto;
       margin-right: auto;

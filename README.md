@@ -30,11 +30,12 @@ This project is made so all the elements are displayed correctly on popular scre
 ![alt text](images/Vector.svg)
 ![alt text](images/yosemite-valley.svg)
 
-https://drive.google.com/drive/u/1/my-drive
+https://drive.google.com/drive/u/0/my-drive
+
 
 this is my around the us web build. It used a combination of flex bot and grid to align and position 6 seperate cards along with other elements. the website is responsive and the layout changes as you reduced or expand the viewport width. 
 
-https://github.com/AlexMicu04/se_project_aroundtheus/deployments/github-pages
+https://alexmicu04.github.io/se_project_aroundtheus/
   
 The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
   
