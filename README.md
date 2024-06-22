@@ -30,7 +30,7 @@ This project is made so all the elements are displayed correctly on popular scre
 ![alt text](images/Vector.svg)
 ![alt text](images/yosemite-valley.svg)
 
-https://drive.google.com/drive/u/0/my-drive
+https://drive.google.com/file/d/1khnMNgx9Fk02CHgJ3GiuagunBI6ABKLk/view?usp=drive_link
 
 
 this is my around the us web build. It used a combination of flex bot and grid to align and position 6 seperate cards along with other elements. the website is responsive and the layout changes as you reduced or expand the viewport width. 
