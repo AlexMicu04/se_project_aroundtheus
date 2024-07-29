@@ -48,7 +48,7 @@
   display: inline-block;
 }
 
-.modal__heading {
+.modal__title {
   max-width: 330px;
   height: 23px;
   font: "Inter";
