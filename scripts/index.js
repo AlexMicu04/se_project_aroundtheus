@@ -58,6 +58,9 @@ profileEditForm.addEventListener('submit', (e) => {
 });
 
 initialCards.forEach((cardData) => {
-  const cardElement = cardTemplate.cloneNode();
-  console.log('.card-element');
+  const cardElement = cardTemplate.cloneNode(true);
+  const cardImageEl = cardElement.querySelector(".card-image");
+  const cardTitleEl = cardElement.querySelector(".card-title");
+  cardTitleEl.textContent = cardData.name;
+  return cardElement;
 });
